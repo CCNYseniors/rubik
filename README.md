@@ -32,7 +32,7 @@ Here is a summary of our project along with a diagram:
 &nbsp;
 
 Figure 1: Corner pieces and middle pieces are not the same  
-<img src="./images/Qiskit_idea_example.jpg" width="50%" />
+<img src="./images/Qiskit_idea_example.jpg" width="40%" />
 &nbsp;
 
 Figure 2: Example frontend  
