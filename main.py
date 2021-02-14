@@ -265,12 +265,12 @@ while run:
                 handle_mouse_drag(event)
                 handle_key_event(event)
                 handle_functional_keys(event)
-        if in_progress_animation():
-            animate()
-        elif in_progress_function():
-            continue_function()
-        else:
-            handle_rotation_keys(points)
+            if in_progress_animation():
+                animate()
+            elif in_progress_function():
+                continue_function()
+            else:
+                handle_rotation_keys(points)
 
      # Draw a line       
     pygame.draw.line(screen, WHITE, [0, brickGroupXShift], [
