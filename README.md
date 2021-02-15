@@ -1,7 +1,7 @@
 # rubik
 
 Qiskit Hackathon Feb. 2021  
-Team members: Michael, Jiseon, Shahid  
+Team members: Michael Salamon, Jiseon, Shahid  
 
 # Qiskit Hackathon  
 ## Friday the 12th, Saturday the 13th, and Sunday the 14th  
